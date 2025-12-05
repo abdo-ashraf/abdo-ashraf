@@ -18,6 +18,9 @@
 
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://media.licdn.com/dms/image/v2/D5622AQGRzeOLkWUvGw/feedshare-shrink_800/B56ZgOj8ByHsA0-/0/1752590959465?e=1766620800&v=beta&t=OGAXkqcsNIaY01I1laxlQKZW5UDvIiWNr59YtOeSBpk" width="300">
+
+<!-- ### Random Dev Quotes -->
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
