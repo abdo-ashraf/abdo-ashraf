@@ -1,12 +1,14 @@
 # Hi there, Abdelrhman Here 👋
 
-📝 Sofware Engineer 💙 Data.
+📝 Software Engineer 💙 Data.
 
 📖 I hold a BSc in Computer Engineering.
 
 🌱 I enjoy learning new things and collaborating.
 
-✍🏾 I love mathematics and statistics, though I really would appreciate it if that love doesn't turn into a career.
+✍🏾 I love mathematics and statistics, although I would really appreciate it if that love doesn't turn into a career.
+
+⚡️ Well, what's in the pipeline: RAG-based system, Enlarge my Software Engineer knowledge, ......
 
 
 ## 🌐 Socials:
